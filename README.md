@@ -3,7 +3,7 @@
 Example React JS Project with webpack and redux. 
 
 
-* ```git clone https://github.com/nithinsayone/ReactJS_Snippet.git```
+* ```git clone https://github.com/nithinsayone/REACT_TEMPLATE.git```
 * run ```npm install``` to install all depencies
 * run ```npm start``` and visit ```http:\\localhost:8080```
 
