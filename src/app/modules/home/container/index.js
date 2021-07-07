@@ -19,10 +19,10 @@ const Home = () => {
 
   const HomeContent = () => {
     if(hasError)
-      return <div>{error}</div> // display the error if error from api. In real application reaplce this with a toast notification
+      return <div>{error}</div>; // display the error if error from api. In real application reaplce this with a toast notification
     else
-      return <div>{JSON.stringify(response)}</div>
-  }
+      return <div>{JSON.stringify(response)}</div>;
+  };
 
   if (loading)
     return <Loader />;
